@@ -1,5 +1,2 @@
 # NBA
-Few NBA stats scripts
-```r
-a <- b
-```
+Few NBA data analysis using **R**
