@@ -1,31 +1,31 @@
-team,team_code,url
-Atlanta Hawks,ATL,https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/243px-Atlanta_Hawks_logo.svg.png
-Boston Celtics,BOS,https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/243px-Boston_Celtics.svg.png
-Brooklyn Nets,BRK,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/198px-Brooklyn_Nets_newlogo.svg.png
-Charlotte Hornets,CHO,https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/270px-Charlotte_Hornets_%282014%29.svg.png
-Chicago Bulls,CHI,https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/239px-Chicago_Bulls_logo.svg.png
-Cleveland Cavaliers,CLE,https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Cleveland_Cavaliers_logo.svg/127px-Cleveland_Cavaliers_logo.svg.png
-Dallas Mavericks,DAL,https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/248px-Dallas_Mavericks_logo.svg.png
-Denver Nuggets,DEN,https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/300px-Denver_Nuggets.svg.png
-Detroit Pistons,DET,https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Detroit_Pistons_logo.svg/284px-Detroit_Pistons_logo.svg.png
-Golden State Warriors,GSW,https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/122px-Golden_State_Warriors_logo.svg.png
-Houston Rockets,HOU,https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/280px-Houston_Rockets.svg.png
-Indiana Pacers,IND,https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/263px-Indiana_Pacers.svg.png
-Los Angeles Clippers,LAC,https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/284px-Los_Angeles_Clippers_%282015%29.svg.png
-Los Angeles Lakers,LAL,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/291px-Los_Angeles_Lakers_logo.svg.png
-Memphis Grizzlies,MEM,https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/164px-Memphis_Grizzlies.svg.png
-Miami Heat,MIA,https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/200px-Miami_Heat_logo.svg.png
-Milwaukee Bucks,MIL,https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/284px-Milwaukee_Bucks_logo.svg.png
-Minnesota Timberwolves,MIN,https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/269px-Minnesota_Timberwolves_logo.svg.png
-New Orleans Pelicans,NOP,https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/New_Orleans_Pelicans_logo.svg/246px-New_Orleans_Pelicans_logo.svg.png
-New York Knicks,NYK,https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/250px-New_York_Knicks_logo.svg.png
-Oklahoma City Thunder,OKC,https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/247px-Oklahoma_City_Thunder.svg.png
-Orlando Magic,ORL,https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/274px-Orlando_Magic_logo.svg.png
-Philadelphia 76ers,PHI,https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/220px-Philadelphia_76ers_logo.svg.png
-Phoenix Suns,PHO,https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/259px-Phoenix_Suns_logo.svg.png
-Portland Trail Blazers,POR,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/268px-Portland_Trail_Blazers_logo.svg.png
-Sacramento Kings,SAC,https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/199px-SacramentoKings.svg.png
-San Antonio Spurs,SAS,https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/385px-San_Antonio_Spurs.svg.png
-Toronto Raptors,TOR,https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/241px-Toronto_Raptors_logo.svg.png
-Utah Jazz,UTA,https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utah_Jazz_logo_%282016%29.svg/281px-Utah_Jazz_logo_%282016%29.svg.png
-Washington Wizards,WAS,https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/254px-Washington_Wizards_logo.svg.png
+team,team_code,url,primary
+Atlanta Hawks,ATL,https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/243px-Atlanta_Hawks_logo.svg.png,#e13a3e
+Boston Celtics,BOS,https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/243px-Boston_Celtics.svg.png,#008348
+Brooklyn Nets,BRK,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/198px-Brooklyn_Nets_newlogo.svg.png,#061922
+Charlotte Hornets,CHO,https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/270px-Charlotte_Hornets_%282014%29.svg.png,#1d1160
+Chicago Bulls,CHI,https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/239px-Chicago_Bulls_logo.svg.png,#ce1141
+Cleveland Cavaliers,CLE,https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Cleveland_Cavaliers_logo.svg/127px-Cleveland_Cavaliers_logo.svg.png,#860038
+Dallas Mavericks,DAL,https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/248px-Dallas_Mavericks_logo.svg.png,#007dc5
+Denver Nuggets,DEN,https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/300px-Denver_Nuggets.svg.png,#4d90cd
+Detroit Pistons,DET,https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Detroit_Pistons_logo.svg/284px-Detroit_Pistons_logo.svg.png,#ed174c
+Golden State Warriors,GSW,https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/122px-Golden_State_Warriors_logo.svg.png,#fdb927
+Houston Rockets,HOU,https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/280px-Houston_Rockets.svg.png,#ce1141
+Indiana Pacers,IND,https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/263px-Indiana_Pacers.svg.png,#ffc633
+Los Angeles Clippers,LAC,https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/284px-Los_Angeles_Clippers_%282015%29.svg.png,#ed174c
+Los Angeles Lakers,LAL,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/291px-Los_Angeles_Lakers_logo.svg.png,#fdb927
+Memphis Grizzlies,MEM,https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/164px-Memphis_Grizzlies.svg.png,#0f586c
+Miami Heat,MIA,https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/200px-Miami_Heat_logo.svg.png,#98002e
+Milwaukee Bucks,MIL,https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/284px-Milwaukee_Bucks_logo.svg.png,#00471b
+Minnesota Timberwolves,MIN,https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/269px-Minnesota_Timberwolves_logo.svg.png,#005083
+New Orleans Pelicans,NOP,https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/New_Orleans_Pelicans_logo.svg/246px-New_Orleans_Pelicans_logo.svg.png,#002b5c
+New York Knicks,NYK,https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/250px-New_York_Knicks_logo.svg.png,#006bb6
+Oklahoma City Thunder,OKC,https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/247px-Oklahoma_City_Thunder.svg.png,#007dc3
+Orlando Magic,ORL,https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/274px-Orlando_Magic_logo.svg.png,#007dc5
+Philadelphia 76ers,PHI,https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/220px-Philadelphia_76ers_logo.svg.png,#ed174c
+Phoenix Suns,PHO,https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/259px-Phoenix_Suns_logo.svg.png,#e56020
+Portland Trail Blazers,POR,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/268px-Portland_Trail_Blazers_logo.svg.png,#e03a3e
+Sacramento Kings,SAC,https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/199px-SacramentoKings.svg.png,#724c9f
+San Antonio Spurs,SAS,https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/385px-San_Antonio_Spurs.svg.png,#bac3c9
+Toronto Raptors,TOR,https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/241px-Toronto_Raptors_logo.svg.png,#ce1141
+Utah Jazz,UTA,https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utah_Jazz_logo_%282016%29.svg/281px-Utah_Jazz_logo_%282016%29.svg.png,#002b5c
+Washington Wizards,WAS,https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/254px-Washington_Wizards_logo.svg.png,#002b5c
